@@ -1,0 +1,22 @@
+.App {
+  /* text-align: center; */
+  margin: auto;
+  margin-top: 50px;
+  max-width: 600px;
+  /* display: flex;
+  flex-direction: column; */
+}
+
+.contact-form {
+  margin: 40px 20px;
+}
+
+.item {
+  background: #e5e5e5;
+  padding: 10px;
+}
+
+#list-items {
+  height: 500px;
+  overflow-y: auto;
+}
